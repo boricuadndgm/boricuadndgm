@@ -63,23 +63,13 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-          path: site
-      # - name: Update submodules
-      #   run: |
-      #     git submodule update --init --recursive; \
-      #     git config -l;
       - name: Test Check
         env:
           DIR: ${{ runner.temp }}
         run: |
-         ls -al; \
-         ls -al $DIR; \
          ls -al $GITHUB_WORKSPACE; \
-         ls -al $GITHUB_WORKSPACE/site; \
-         cd $GITHUB_WORKSPACE/site; \
-         git submodule update --init --recursive; \
          git submodule add -f https://github.com/hanwenguo/hugo-theme-nostyleplease.git themes/hugo-theme-nostyleplease; \
-         ls -al $GITHUB_WORKSPACE/site;
+         ls -al $GITHUB_WORKSPACE/themes;
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
