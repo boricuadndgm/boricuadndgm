@@ -70,12 +70,7 @@ jobs:
         uses: actions/configure-pages@v5
       
       - name: Checkout submodules
-        # You may pin to the exact commit or the version.
-        # uses: textbook/git-checkout-submodule-action@0cb23c7e6a67085e1dc5e884920bd620f7b9c469
-        uses: textbook/git-checkout-submodule-action@2.1.1
-
-          
-      
+        run: git submodule update --init --recursive
       # - name: Install Node.js dependencies
       #   run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
