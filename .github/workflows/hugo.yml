@@ -64,10 +64,10 @@ jobs:
           submodules: recursive
           fetch-depth: 0
           path: site
-      - name: Update submodules
-        run: |
-          git submodule update --init --recursive; \
-          git config -l;
+      # - name: Update submodules
+      #   run: |
+      #     git submodule update --init --recursive; \
+      #     git config -l;
       - name: Test Check
         env:
           DIR: ${{ runner.temp }}
