@@ -1,0 +1,5 @@
+baseURL = 'https://boricuadndgm.github.io/'
+languageCode = 'en-us'
+title = 'Boricua D&D GM'
+#theme = 'hugo-dusk'
+theme = 'nostyleplease'
