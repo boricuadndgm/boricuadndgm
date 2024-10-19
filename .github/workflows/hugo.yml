@@ -72,6 +72,9 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Chicago
         run: |
+          ls; \
+          ls themes; \
+          git submodule update; \
           hugo \
             --gc \
             --minify \
