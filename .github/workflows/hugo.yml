@@ -61,7 +61,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          submodules: true
+          fetch-depth: 0
+      - name: Update submodules
+        run: git submodule update --init --recursive
       - name: Test Check
         env:
           DIR: ${{ runner.temp }}
