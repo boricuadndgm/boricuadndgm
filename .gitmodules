@@ -1,9 +1,3 @@
-[submodule "themes/dark-theme-editor"]
-	path = themes/dark-theme-editor
-	url = https://github.com/JingWangTW/dark-theme-editor.git
-[submodule "themes/hugo-dusk"]
-	path = themes/hugo-dusk
-	url = https://github.com/gyorb/hugo-dusk
-[submodule "themes/nostyleplease"]
-	path = themes/nostyleplease
+[submodule "themes/hugo-theme-nostyleplease"]
+	path = themes/hugo-theme-nostyleplease
 	url = https://github.com/hanwenguo/hugo-theme-nostyleplease.git
