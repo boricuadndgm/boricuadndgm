@@ -63,6 +63,12 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Test Check
+        env:
+          DIR: ${{ runner.temp }}
+        run: |
+         ls; \
+         ls $DIR;
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -72,9 +78,6 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Chicago
         run: |
-          ls; \
-          ls themes; \
-          git submodule update; \
           hugo \
             --gc \
             --minify \
