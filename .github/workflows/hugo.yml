@@ -75,6 +75,9 @@ jobs:
          ls -al; \
          ls -al $DIR; \
          ls -al $GITHUB_WORKSPACE; \
+         ls -al $GITHUB_WORKSPACE/site; \
+         cd $GITHUB_WORKSPACE/site; \
+         git submodule update --init --recursive; \
          ls -al $GITHUB_WORKSPACE/site;
       - name: Setup Pages
         id: pages
