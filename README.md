@@ -1,5 +1,7 @@
 # [boricuadndgm.github.io]
 
+[![Deploy Hugo content to Pages](https://github.com/boricuadndgm/boricuadndgm/actions/workflows/hugo.yml/badge.svg)](https://github.com/boricuadndgm/boricuadndgm/actions/workflows/hugo.yml)
+
 ## Hi there 👋
 
 <!--
