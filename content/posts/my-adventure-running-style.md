@@ -1,7 +1,7 @@
 +++
-date = '2024-10-18T22:58:14-05:00'
+date = '2024-11-06T22:00:00-05:00'
 draft = false
-title = 'My First Post'
+title = 'My Adventure Running Style'
 +++
 ## Introduction
 
