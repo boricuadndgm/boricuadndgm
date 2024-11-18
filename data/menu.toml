@@ -1,8 +1,23 @@
 [[entries]]
-title = "Recent Articles"
+title = "About Me"
+url = "about"
 
-  [entries.post_list]
-  section = "posts"
-  show_more = true
-  show_more_text = "See more articles..."
-  show_more_url = "posts"
+[[entries]]
+title = "Recent Posts"
+
+[entries.post_list]
+section = "posts"
+limit = 5
+show_more = true
+show_more_text = "See more..."
+show_more_url = "posts"
+
+[[entries]]
+title = "Campaigns"
+
+[entries.post_list]
+section = "campaigns"
+limit = 5
+show_more = true
+show_more_text = "See more..."
+show_more_url = "general-resources"
