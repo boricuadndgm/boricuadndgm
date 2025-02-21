@@ -1,5 +1,5 @@
 +++
-date = '2024-11-06T22:46:57-06:00'
+date = '2024-11-06T23:59:59-06:00'
 draft = true
 title = 'Session Zero'
 +++
@@ -48,3 +48,6 @@ title = 'Session Zero'
 
 
 I’m always here for some epic D&D brainstorming. 🎲📜
+
+https://slyflourish.com/running_session_zeros.html
+https://www.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/
