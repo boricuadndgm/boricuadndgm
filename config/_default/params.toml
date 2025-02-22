@@ -2,6 +2,7 @@
 mainSections = ["posts"]
 # Output page's full content in RSS.
 rssFullContent = false
+
 favicon = "/stargate.ico"
 
 [footer]
@@ -27,6 +28,10 @@ math = false
 toc = true
 readingTime = true
 
+[article.license]
+enabled = false
+default = ""
+
 ## Widgets
 [[widgets.homepage]]
 type = "search"
@@ -51,3 +56,17 @@ limit = 10
 
 [[widgets.page]]
 type = "toc"
+
+[colorScheme]
+toggle = true
+default = "auto"
+
+[imageProcessing.cover]
+enabled = true
+
+[imageProcessing.content]
+enabled = true
+
+## Comments
+[comments]
+enabled = false

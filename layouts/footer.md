@@ -1,1 +1,0 @@
-All rights reserved and attributions required.

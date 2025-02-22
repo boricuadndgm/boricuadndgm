@@ -12,9 +12,25 @@ url = "https://github.com/boricuadndgm"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "reddit"
+name = "Reddit"
+url = "https://www.reddit.com/user/boricuadndgm/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-reddit"
+
+[[social]]
+identifier = "reddit"
+name = "Reddit"
+url = "https://www.reddit.com/user/boricuadndgm/"
+
+[social.params]
+icon = "brand-reddit"
+
+[[social]]
+identifier = "reddit"
+name = "Reddit"
+url = "https://www.reddit.com/user/boricuadndgm/"
+
+[social.params]
+icon = "brand-reddit"
