@@ -1,8 +1,8 @@
-+++
-date = '2024-11-18T13:18:36-06:00'
-draft = true
-title = 'The Royal House of the Scarlet Jester'
-+++
+---
+date: '2024-11-18T13:18:36-06:00'
+draft: true
+title: 'The Royal House of the Scarlet Jester'
+---
 
 # The Royal House of the Scarlet Jester
 
@@ -23,18 +23,18 @@ Kind of split between French and German nobility
 
 ## The Vicar Verrat
 
-[verrat = treason]
+[verrat: treason]
 
 ## Other Members
 
-- Trag~odie (tragedy)
-- Gl~uck (happiness, luck)
+- Tragødie (tragedy)
+- Glück (happiness, luck)
 - Zorn (warth)
 - Freude (joy)
 - Elend (misery)
 - Schmerz (pain)
 - Leiden (suffering)
-- V~ollerei (gluttony)
+- Vøllerei (gluttony)
 - Stolz (pride)
 - Neid (envy)
 - Verrat (treason)

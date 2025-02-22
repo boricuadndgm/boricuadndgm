@@ -1,8 +1,8 @@
-+++
-date = '2024-10-01T10:00:00-06:00'
-draft = true
-title = 'The Good Factions'
-+++
+---
+date: '2024-10-01T10:00:00-06:00'
+draft: true
+title: 'The Good Factions'
+---
 
 # The Good Factions
 

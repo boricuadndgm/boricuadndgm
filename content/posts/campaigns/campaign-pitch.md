@@ -18,13 +18,18 @@ Is this table for you? Let's find out!
 
 ## Join Our D&D Adventure!
 
-Are you ready to embark on an epic journey where your character's background and goals drive them to seek adventure, fame, influence, vengeance, riches, or any combination thereof? Become the champion the world needs!
+Are you ready to embark on an epic journey where your character's background and goals drive them to seek adventure, fame, influence, vengeance, riches, or any combination thereof?
+Become the champion the world needs!
 
-In our campaign, you'll encounter thrilling situations of good versus evil, law and order versus anarchy and chaos. Your mission is to establish a local franchise of an adventuring guild and build its reputation to achieve regional impact.
+In our campaign, you'll encounter thrilling situations of good versus evil, law and order versus anarchy and chaos.
+Your mission is to establish a local franchise of an adventuring guild and build its reputation to achieve regional impact.
 
-Navigate the complex geopolitics, aligning with or against various factions that hoard power, wealth, and control. Your actions will gain you reputation and renown with some factions, while potentially alienating others.
+Navigate the complex geopolitics, aligning with or against various factions that hoard power, wealth, and control.
+Your actions will gain you reputation and renown with some factions, while potentially alienating others.
 
-Explore dangerous dungeons in search of rare magical artifacts that boost the local and regional economy and elevate the prestige of your adventuring guild. Face horrible monsters and terrible threats to defend the townsfolk, villages, cities, and the realm itself. Beware of challengers and rival guilds or factions that may attempt to hinder your progress.
+Explore dangerous dungeons in search of rare magical artifacts that boost the local and regional economy and elevate the prestige of your adventuring guild.
+Face horrible monsters and terrible threats to defend the townsfolk, villages, cities, and the realm itself.
+Beware of challengers and rival guilds or factions that may attempt to hinder your progress.
 
 Join us and become part of an unforgettable adventure! 🎲📜
 

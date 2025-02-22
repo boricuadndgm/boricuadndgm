@@ -1,8 +1,8 @@
-+++
-date = '2024-10-01T10:00:00-06:00'
-draft = true
-title = 'NPC pool'
-+++
+---
+date: '2024-10-01T10:00:00-06:00'
+draft: true
+title: 'NPC pool'
+---
 # NPC Pool
 
  - Agata Garnet (Barb Pot Zealot / Blood Hunter): Earth Genasi
