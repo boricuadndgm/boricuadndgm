@@ -7,7 +7,7 @@ outputs:
     - json
 menu:
   main:
-    weight: 5
+    weight: 95
     params:
       icon: search
 ---

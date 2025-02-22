@@ -14,7 +14,6 @@ aliases:
   - "code"
 menu:
   main:
-    name: "Code of Conduct"
     weight: 4
     params:
       icon: "home-heart"

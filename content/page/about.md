@@ -11,7 +11,6 @@ aliases:
   - "about-me"
 menu:
   main:
-    name: "About Me"
     weight: 2
     params:
       icon: "user"

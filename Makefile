@@ -1,7 +1,9 @@
 .DEFAULT: help
 
 publish:
-	hugo
+	hugo \
+		--gc \
+		--minify
 
 ## file_path="${file_path}" make new-content
 

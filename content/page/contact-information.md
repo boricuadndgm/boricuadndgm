@@ -11,7 +11,6 @@ aliases:
   - "contact-me"
 menu:
   main:
-    name: "Contact Information"
     weight: 3
     params:
       icon: "address-book"
