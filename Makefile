@@ -37,9 +37,9 @@ dev:
 
 run:
 	hugo server \
-		--cleanDestinationDir \
 		--gc \
-		--minify
+		--minify \
+		--cleanDestinationDir
 
 help:
 	hugo --help
