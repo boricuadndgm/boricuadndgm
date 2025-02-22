@@ -1,10 +1,22 @@
-+++
-date = '2025-02-21T23:59:59-06:00'
-draft = false
-title = 'About Me'
-+++
+---
+title: "About Me"
+description: ""
+author: "BoricuaDNDGM"
+date: "2025-02-01T23:59:59-06:00"
+lastmod: "2025-02-21T23:59:59-06:00"
+draft: false
+aliases:
+  - "about"
+  - "about-me"
+menu:
+  main:
+    name: "About Me"
+    weight: 2
+    params:
+      icon: "user"
+---
 
-**Welcome to my adventure-filled realm!**
+# Welcome to my adventure-filled realm!
 
 I’m a passionate TTRPG enthusiast with a particular love for D&D 5e.
 My journey through tabletop role-playing games has taken me from the bustling halls of GenCon to the cozy corners of my local library.
@@ -58,5 +70,3 @@ Our goal is to have a good time.
 Let the dice roll and the adventures unfold! 🚀🎲📜
 
 -- *BoricuaGM*
-
-[Contact Information](./contact-information.md)

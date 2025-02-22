@@ -1,8 +1,20 @@
-+++
-date = '2024-11-17T13:11:41-06:00'
-draft = true
-title = 'Tomb of the Ancient Order'
-+++
+---
+title: "Tomb of the Ancient Order"
+description: "Jump to Heroics and dive into a Tomb."
+author: "BoricuaDNDGM"
+date: "2024-11-17T13:11:41-06:00"
+draft: false
+tags:
+    - adventure
+    - 1st-level
+    - first-level
+    - dungeon
+    - oneshot
+    - 1st-tier
+categories:
+    - adventure
+    - oneshot
+---
 
 # The Entrance Guards
 

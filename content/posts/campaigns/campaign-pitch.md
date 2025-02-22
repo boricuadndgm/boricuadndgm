@@ -1,10 +1,20 @@
-+++
-date = '2024-11-06T23:59:59-06:00'
-draft = false
-title = 'The Pitch - Is this table for you?'
-+++
+---
+title: "The Table Pitch"
+description: "Is this table for you? Let's find out."
+author: "BoricuaDNDGM"
+date: "2024-11-06T23:59:59-06:00"
+lastmod: "2025-02-21T23:59:59-06:00"
+draft: false
+tags:
+  - resources
+  - onboarding
+categories:
+  - resources
+---
 
-# The Pitch - Is this table for you?
+# The Table Pitch
+
+Is this table for you? Let's find out!
 
 ## Join Our D&D Adventure!
 
