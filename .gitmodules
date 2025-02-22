@@ -1,9 +1,3 @@
-[submodule "themes/hugo-theme-nostyleplease"]
-	path = themes/hugo-theme-nostyleplease
-	url = https://github.com/hanwenguo/hugo-theme-nostyleplease.git
-[submodule "themes/risotto"]
-	path = themes/risotto
-	url = https://github.com/joeroe/risotto
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
