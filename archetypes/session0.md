@@ -1,8 +1,14 @@
-+++
-date = '{{ .Date }}'
-draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+description: ""
+author: "BoricuaDNDGM"
+date: "{{ .Date }}"
+lastmod: "{{ .Date }}"
+draft: true
+tags: []
+categories: []
+---
+
 ### [Title of Campaign]
 **Date:** [Insert Date]
 

@@ -1,10 +1,10 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 description: ""
-author: "{{ .Author }}" # "BoricuaDNDGM"
+author: "BoricuaDNDGM"
 date: "{{ .Date }}"
 lastmod: "{{ .Date }}"
 draft: true
 tags: []
 categories: []
-+++
+---
