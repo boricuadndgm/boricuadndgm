@@ -27,3 +27,44 @@ title: 'NPC pool'
  - Tomacz Wykowoski (Rogue): Half-Orc
  - Wylemina "Wyla" Calvert (Artificer - Armorer): Rock Gnome
  - Zan (Druid Circle of the Shephard) Verdan
+
+
+
+
+1. **Bryn**
+2. **Dagna**
+3. **Helga**
+4. **Ingrid**
+5. **Kara**
+6. **Lina**
+7. **Nora**
+8. **Rina**
+9. **Sigrid**
+10. **Thora**
+1. **Gilda**
+2. **Freya**
+3. **Mara**
+4. **Tilda**
+5. **Arla**
+6. **Hilda**
+7. **Korra**
+8. **Vera**
+9. **Brina**
+10. **Dora**
+
+
+## Marinella NPCs
+
+### Council
+
+
+## Guild NPCs
+
+#### Gordon Flanders
+
+- half-elf male
+- adventuring guild assistant to the regional manager, subordinate Jim Darkmagic
+- Idolizes Jim Darkmagic above the CEO
+- corporate yes-man and brown-nose, workaholic, mediocre competence level, snob
+- responsible assisting PCs in bootstraping a franchise
+- meant to help introduce PCs and facilitate any new hirelings

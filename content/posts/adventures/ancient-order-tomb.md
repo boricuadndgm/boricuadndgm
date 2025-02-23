@@ -5,13 +5,13 @@ author: "BoricuaDNDGM"
 date: "2024-11-17T13:11:41-06:00"
 draft: true
 tags:
-    - adventures
-    - dungeon
-    - oneshot
+  - adventures
+  - dungeon
+  - oneshot
 categories:
-    - adventures
-    - oneshot
-    - dungeon
+  - adventures
+  - oneshot
+  - dungeon
 ---
 
 # The Entrance Guards
