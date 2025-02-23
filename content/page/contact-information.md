@@ -20,6 +20,6 @@ I work full-time in my day job so I will do my best to check messages but no pro
 My hobby is not my job and I do not want it to be.
 Moreover, I generally don't like social media so I do not pay much attention to it.
 
-- Email:
-- Reddit:
-- Discord:
+- [Email](boricua.dndgm@gmail.com)
+- [Reddit](https://www.reddit.com/user/boricuadndgm/)
+- [Discord](boricuadndgm)

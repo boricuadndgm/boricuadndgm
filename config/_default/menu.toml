@@ -20,17 +20,17 @@ url = "https://www.reddit.com/user/boricuadndgm/"
 icon = "brand-reddit"
 
 [[social]]
-identifier = "reddit"
-name = "Reddit"
-url = "https://www.reddit.com/user/boricuadndgm/"
+identifier = "discord"
+name = "Discord"
+url = "boricuadndgm"
 
 [social.params]
-icon = "brand-reddit"
+icon = "brand-discord"
 
 [[social]]
-identifier = "reddit"
-name = "Reddit"
-url = "https://www.reddit.com/user/boricuadndgm/"
+identifier = "email"
+name = "Email"
+url = "boricua.dndgm@gmail.com"
 
 [social.params]
-icon = "brand-reddit"
+icon = "mail"

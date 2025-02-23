@@ -1,6 +1,6 @@
 ---
 date: '2024-10-01T10:00:00-06:00'
-draft: false
+draft: true
 title: 'NPC pool'
 ---
 # NPC Pool

@@ -3,17 +3,15 @@ title: "Tomb of the Ancient Order"
 description: "Jump to Heroics and dive into a Tomb."
 author: "BoricuaDNDGM"
 date: "2024-11-17T13:11:41-06:00"
-draft: false
+draft: true
 tags:
-    - adventure
-    - 1st-level
-    - first-level
+    - adventures
     - dungeon
     - oneshot
-    - 1st-tier
 categories:
-    - adventure
+    - adventures
     - oneshot
+    - dungeon
 ---
 
 # The Entrance Guards

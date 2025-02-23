@@ -1,6 +1,6 @@
 ---
 date: '2024-11-18T13:18:36-06:00'
-draft: false
+draft: true
 title: 'The Royal House of the Scarlet Jester'
 ---
 
@@ -38,3 +38,8 @@ Kind of split between French and German nobility
 - Stolz (pride)
 - Neid (envy)
 - Verrat (treason)
+
+
+Order of titles Peerage
+
+duke/duchess, margrave(military)/marquis/marquess/marchioness, earl/count/countess, viscount/viscountess, and baron/baroness

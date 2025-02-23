@@ -1,6 +1,6 @@
 ---
 date: '2024-11-06T23:59:59-06:00'
-draft: false
+draft: true
 title: 'Session Zero'
 ---
 ### [Title of Campaign]

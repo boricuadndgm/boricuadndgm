@@ -8,6 +8,7 @@ draft: false
 tags:
   - resources
   - onboarding
+  - campaign
 categories:
   - resources
 ---
