@@ -3,7 +3,7 @@ mainSections = ["posts"]
 # Output page's full content in RSS.
 rssFullContent = false
 
-favicon = "/stargate.ico"
+favicon = "stargate.ico"
 
 [footer]
 since = 2025
