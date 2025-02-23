@@ -1,6 +1,6 @@
 ---
 date: '2024-11-18T13:18:36-06:00'
-draft: true
+draft: false
 title: 'The Royal House of the Scarlet Jester'
 ---
 
