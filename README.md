@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 -->
 
 [boricuadndgm.github.io]: https://boricuadndgm.github.io/boricuadndgm/
+
+### Uses
+https://tabler.io/icons
+https://stack.jimmycai.com/
+https://demo.stack.jimmycai.com/
+https://github.com/CaiJimmy/hugo-theme-stack
+https://github.com/CaiJimmy/hugo-theme-stack-starter
