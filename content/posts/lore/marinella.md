@@ -8,15 +8,30 @@ draft: true
 tags:
   - marinella
   - lore
-  - resources
-  - settlement
-categories:
-  - lore
-  - resources
+  - state
   - settlements
+  - town
+  - places
+  - geography
+categories:
+  - places
+  - geography
+  - lore
 ---
 
-# The Town of Marinella
+# Marinella
+
+Settlement Type: Town
+Settlement Size: ~10-12k inhabitants in the region, ~8-9k in the main town
+Primary Industry:
+  - Fishing
+  - Sea Trade
+  - Smuggling
+  - Ship Building
+Other Industries:
+  - Mining
+
+## Description
 
 > Welcome to the seaside town of Marinella!
 > At first glance, Marinella is a quaint fishing town at the southernmost edge of the region.
@@ -30,15 +45,41 @@ categories:
 > No worries. It just means that hiring standards need to be adjusted.
 > Lucky for us, we are seeking aggresive expansion in this adventuring business and this town's economy is perfectly situated.
 
-[Start Adventure: Mine Cleanup Crew](../../adventures/mine-cleanup-crew.md#hired-in-marinella)
+This prompt serves to start the adventure [The Mine Cleanup Crew](../../adventures/mine-cleanup-crew.md#hired-in-marinella).
+
+## Notable NPCs
+
+### Town Council
+
+#### Eda Oweland
+
+*CG, female, human, noble*
+
+- Senior member of the town council
+- Older, stern, and direct. Does not trust easily. Judges harshly the party.
+- Does not like the presence of the mining company and those loyal to the state that employs them.
+- Agrees with Sigrid in the safety of the miners and fears the spead of monsters into the town.
+
+#### Elias Fireborn
+
+*LN, male, human, gladiator*
+
+- Retired from military service, loyal servant of the nation state of [Tyrol].
+- Personal financial interests are linked to the mine.
+- Cunning political mind, seeking to expand the influence of [Tyrol] in [Marinella].
+
+##### Sigrid Copperlocks
+
+*LN, female, dwarf, veteran*
+
+- Head of Mining Operations, unwavering, stubborn, and highly competent
+- Represents the interests behind the dwarven mining company.
+- Is protective and secretive about anything related to the mines and their operations.
+- Is interested in safe working conditions for the miners. [Eda][Eda Oweland] shares this ideal.
 
 
 
-
-
-
-
-Important SPots
+## Important SPots
 
 Porta Lucis
 Fisher's Rest

@@ -20,6 +20,12 @@ categories:
 The party is hired to handle an infestation of monsters that have suddenly appeared in the local mines.
 [Gordon Flanders](), the local contact, negotiates with the town council member(s) who will reward the party upon job completion.
 
+- Who: mutated beasts, bandit group (bosses)
+- What: minerals and ores are excavated, primarily silver, (secret storage of dark water)
+- Why: interests from [Tyrol] and [TMM] exploit resources in the region of [Marinella],
+       dark water is a promising valuable new magical resource
+- Where: mining camp at foot of the mountain, half days journey from town
+
 ### Secrets
 
 - Monsters in mine are mutated beasts that have been exposed to the dark water.
@@ -29,7 +35,8 @@ The party is hired to handle an infestation of monsters that have suddenly appea
 - Miners describe monsters as bizzare versions of normal beasts.
   Miners, when asked, describe their jobs mundanely and briefly.
   Miners are not aware of the contents of the dark water containers. They ignorantly just move barrels.
-  A couple miners, those who have had a lot of contact with dark water barrels, complain of headaches and sometimes feel they are being watched. Early symptoms of dark water's maddening effects.
+  A couple miners, those who have had a lot of contact with dark water barrels, complain of headaches and sometimes feel they are being watched.
+  Early symptoms of dark water's maddening effects.
 
 - A secret section of the mine is used as dark water storage.
   [TMM] hired smugglers to ship dark water into [Tyrol].
@@ -42,7 +49,7 @@ The party is hired to handle an infestation of monsters that have suddenly appea
 - 25 GP per PC
 - Signed Business License
 
-## Hired in [Marinella]()
+## Hired in [Marinella]
 
 > You begin to refocus your attention from admiring the buildings, admiring the bay, and smelling the salty, marshy air.
 > Your tour ends as you enter an administrative building where 3 individuals who are having an argument suddenly stop at your entrance.
@@ -50,7 +57,7 @@ The party is hired to handle an infestation of monsters that have suddenly appea
 They will describe the job and answer any pertient questions.
 Party can have a bit of time to prepare, but when ready, the party should talk with Sigrid.
 Sigrid will guide the party to the mining camp and the mine entrance.
-The mining company name is [Tyrolian Minerals Minning Co.] ([TMM]).
+The mining company name is [Tyrolian Minerals Minning Co.][TMM] ([TMM]).
 
 **[Eda Oweland]** *CG, female, human, noble*
 - Senior member of the town council
@@ -69,6 +76,9 @@ The mining company name is [Tyrolian Minerals Minning Co.] ([TMM]).
 - Is protective and secretive about anything related to the mines and their operations.
 - Is interested in safe working conditions for the miners. [Eda][Eda Oweland] shares this ideal.
 
+## The Mining Camp
+
+## Entrance to the Mine
 
 [TMM]: ../lore/geography/tyrol.md
 [Tyrol]: ../lore/geography/tyrol.md

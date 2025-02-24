@@ -51,20 +51,3 @@ title: 'NPC pool'
 8. **Vera**
 9. **Brina**
 10. **Dora**
-
-
-## Marinella NPCs
-
-### Council
-
-
-## Guild NPCs
-
-#### Gordon Flanders
-
-- half-elf male
-- adventuring guild assistant to the regional manager, subordinate Jim Darkmagic
-- Idolizes Jim Darkmagic above the CEO
-- corporate yes-man and brown-nose, workaholic, mediocre competence level, snob
-- responsible assisting PCs in bootstraping a franchise
-- meant to help introduce PCs and facilitate any new hirelings
