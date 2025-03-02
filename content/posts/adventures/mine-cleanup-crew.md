@@ -28,17 +28,20 @@ The party is hired to handle an infestation of monsters that have suddenly appea
 
 ### Secrets
 
-- Monsters in mine are mutated beasts that have been exposed to the dark water.
+3. Monsters in mine are mutated beasts that have been exposed to the dark water.
   Transformed animals are affected by drinking or eating things laced or infused with dark water.
   Also being in the proximity of dark water for prolong periods of time will have mild psychological effects.
 
-- Miners describe monsters as bizzare versions of normal beasts.
-  Miners, when asked, describe their jobs mundanely and briefly.
-  Miners are not aware of the contents of the dark water containers. They ignorantly just move barrels.
-  A couple miners, those who have had a lot of contact with dark water barrels, complain of headaches and sometimes feel they are being watched.
-  Early symptoms of dark water's maddening effects.
+1. Miners, when asked, describe their jobs mundanely and briefly.
+   Miners describe monsters as bizzare versions of normal beasts.
+   The monsters first appearance (or were noticed) about 10 days ago.
 
-- A secret section of the mine is used as dark water storage.
+   Miners are not aware of the contents of the dark water containers. They ignorantly just move barrels.
+
+   A couple miners, those who have had a lot of contact with dark water barrels, complain of headaches and sometimes feel they are being watched.
+   Early symptoms of dark water's maddening effects.
+
+2. A secret section of the mine is used as dark water storage.
   [TMM] hired smugglers to ship dark water into [Tyrol].
   [TMM] does not wants to keep this secret at all cost.
   [Elias][Elias Fireborn] knows more about this but will keep the secret.

@@ -47,6 +47,24 @@ Other Industries:
 
 This prompt serves to start the adventure [The Mine Cleanup Crew](../../adventures/mine-cleanup-crew.md#hired-in-marinella).
 
+## The Town Facts
+
+The town is undergoing an economic boom.
+Inpired in Venezia and is meant to be the homebase for the player characters.
+
+There are whole sections of the town built on lagoon islands amidst the marshy landscape.
+The terrain depression allowed for the sea to flood the area where the delta of a major river and the see meld.
+
+THe overall region is decently diverse with various communities focused on certain local villages.
+
+The population and its leadership is broken down into two major factions Traditionalists and Loyalists.
+
+The city is ruled by the Consiglio Maggiore and the Doge.
+The council has representatives of various interest groups.
+
+Governing bodies are represented by Terraferma, Marittima, Patricians, Comerciantes, and Tresoreria Finanzaria.
+Both Traditionalists and Loyalist are members of these groups and they seek to influence the directions of the Consiglio Maggiore.
+
 ## Notable NPCs
 
 ### Town Council

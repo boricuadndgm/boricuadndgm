@@ -13,6 +13,9 @@ tags:
   - nations
   - places
   - geography
+  - tulin-graz
+  - tulin
+  - graz
 categories:
   - places
   - geography

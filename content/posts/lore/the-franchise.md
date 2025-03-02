@@ -17,6 +17,32 @@ title: 'The Franchise'
 
 ## Locales
 
+### Tier 1 options
+
+- Inn
+- Old Tavern
+- Old Lighthouse
+- Old Warehouse
+- Old Store
+
+### Tier 2 options
+
+- Guild Hall
+- Hotel
+- Bodega Warehouse and Store
+- Restaurant
+- Docks Administration
+
+### Tier 3 options
+
+- Theatre
+- FireHouse
+- Clinic
+- Ship
+- Clock Tower
+- City Hall
+
+
 
 ## Majordomos
 

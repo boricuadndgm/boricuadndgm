@@ -76,6 +76,8 @@ This is not meant to be a full list just a sample.
 
 ## Other Creative Outlets
 
+### Cartography
+
 I also enjoy drawing maps and creating interesting table props that make play more engaging.
 These obviously take a lot of time and effort, but when I am able to, they feel like a very rewarding way to engage with players.
 If you like dungeon art, these are some of my influences:

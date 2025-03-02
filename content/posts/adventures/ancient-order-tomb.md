@@ -215,4 +215,43 @@ In the event a Goblin makes an escape through the north wall door, it will run (
 
 # The Ceremonial Chamber
 
-**TODO**
+__If no one warns the Vicar,__ the PCs can hear the final words where the Vicar says "We have what we came from, bring me the boy, a little more ".
+At that moment, the Vicar notices the players and then shouts "Insolent fools, you dare interrupt! You will pay!".
+The Vicar turns to the wall behind him and opens a portal and as he walks through it, he ominously exclains "Rise".
+
+** It is possible to run this scenario with the idea that the Vicar enters initiative.
+However, the Vicar does not engage in battle and uses his turn to open the portal and walk.
+
+__If the Vicar was warned,__ he has already opened the portal and is walking through.
+He has killed the creature that warned him for failing at the job of guarding the tomb.
+
+The Vicar uses revived corpse to guard his escape and kill the PCs.
+The Vicar and his red guards walk through the portal.
+
+The combat:
+
+## The Ceremony
+
+In the back fo the altar there is a large portrait with paintings of 3 of the most important figures for the knight, the founders.
+3 events that describe the way that the knights gained
+
+The Vicar's ceremony left the bodies of the kidnapped people. THe men and women from the town.
+ These bodies were transformed into zombies left for the PCs to battle.
+Whatever the ceremony was, it left their bodies mumified.
+
+Detect magic on this room shows that the altar eminates a mixture of abjuration and transfiguration magic.
+
+## The Trapped Voice
+
+> To give it, you first must keep it.
+
+If the players picked up the __The diary__ from the living quarters from the Knights, then they have a clue to the riddle.
+
+The diary entry reads:
+> As part of the initiation, I stepped up to the altar and began to recite an oath where I give my word to protect and serve the order.
+> My word, my bond, is to fight the forces of chaos.
+> This was one of my proudest moments as I know my father would approve in my chosen path.
+
+Investigating the altar area, the pilars have incscribe the workds "Virtue, Courage, Honor, Justice".
+
+Investigating the statues the one on the east side it can be detected that there's a breese
