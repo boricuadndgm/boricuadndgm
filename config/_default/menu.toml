@@ -22,15 +22,15 @@ icon = "brand-reddit"
 [[social]]
 identifier = "discord"
 name = "Discord"
-url = "boricuadndgm"
+url = "https://linktr.ee/heroicadventures"
 
 [social.params]
 icon = "brand-discord"
 
-[[social]]
-identifier = "email"
-name = "Email"
-url = "boricua.dndgm@gmail.com"
+# [[social]]
+# identifier = "email"
+# name = "Email"
+# url = "***@gmail.com"
 
-[social.params]
-icon = "mail"
+# [social.params]
+# icon = "mail"
