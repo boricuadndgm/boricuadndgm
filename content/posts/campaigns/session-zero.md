@@ -2,17 +2,13 @@
 date: '2024-11-06T23:59:59-06:00'
 draft: true
 title: 'Session Zero'
+---
 
 Campaign Overview
 
 TO make your adventuring guild recognized across the region.
 TO build, found, and start up an adventruring guild or franchcise in a new city or town.
 TO prevent the rise of the immortal council to power.
-
-
-
-
----
 ### [Title of Campaign]
 **Date:** [Insert Date]
 
