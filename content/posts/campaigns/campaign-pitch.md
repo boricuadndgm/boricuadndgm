@@ -75,3 +75,5 @@ This is because not all the material has yet been converted over and I have not 
 
 Feel free to use any character tracking method you prefer.
 I am a paper pencil type of person, so I am happy to provide character sheets.
+
+This is all a conversation, so if you have questions, just ask. 👍
