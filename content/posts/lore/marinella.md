@@ -127,3 +127,104 @@ Story Arcs
 RHCJ attempts to use Dark Water for nefarious rituals that involve undead.
 Tyrol state repesentatives
 Regional conflicts with lizerd folks and sahuagin
+
+## Region and Geography
+
+Planning
+
+South coast and Bay with Islands
+Region de Marisma
+Tavira, Mafra, Salinas, Umbria, Segovia, Almerias
+
+Central North dry and mountain range
+Reus,Arnedo, Lepe, Ordino, Cascais, Tarragona
+## Real World Inspiration
+
+### Portugal
+
+- Tavira
+- Cascais
+- Mafra
+- Porto Braga
+- Fortaleza de Sagres
+
+### España
+
+- Burela
+- Salinas
+- Tarragona
+- Reus
+- Arnedo
+- Almerias
+- Lepe
+- Umbria
+- Olivenza
+- Segovia
+- Monforte de Lemos
+- Piedras Blancas
+- Ordino
+- Serrat
+- Mont Malus
+- Massana
+- Medina
+- Pozo Blanco
+
+### Francia
+
+- Bayone
+- Bergerac
+- Montauban
+- Colmar
+- Bruz
+- Rouen
+- Rennes
+
+### Niederland
+
+- Maastricht
+- Eindhoven
+- Breda
+- Utrecht
+- Leiden
+
+### Bulgaria
+
+- Vidin
+- pleven
+- pernik
+- mezdra
+- silistra
+- sliven
+- balchik
+- bansko
+- lom
+
+### Puerto Rico
+
+- Caparra
+- Jayuya
+- El Batey
+
+### Italia
+- cremona
+-parma
+-brescia
+-livorno
+-volterra
+-monteriggioni
+-perugia
+- terni
+- ravena
+-osimo
+- montemaggio
+- castelluccio
+- torcello
+- burano
+-murano
+-brenta
+- messina
+-cosenza
+-ragusa
+-catnia
+-sirolo
+-forli
