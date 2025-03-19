@@ -48,6 +48,9 @@ None.
 
 #### April
 
+Each session is about 2 to 2.5 hours. Starting at 7 pm CST and ending around 9:30 pm with a hard stop at 10 pm.
+I like to leave a buffer for folks running late or for having a bit of time do some socializing.
+
 - Session 0: Wednesday April 9 at 7 pm CST at Heroic Adventures
   - Kickstart adventure, cover character creation
 - Session 1: Wednesday April16 at 7 PM CST at Heroic Adventures
@@ -57,5 +60,7 @@ None.
 - Session 3: Wednesday April 30 at 7 pm CST at Heroic Adventures
   - Adventure conclusion
 
-[Respond to Google Form URL](https://forms.gle/EMD6rwXhPnH2Zcbi8) **Deadline for submissions is Monday April 7th, 2025**
+Please, [Respond to Google Form](https://forms.gle/EMD6rwXhPnH2Zcbi8) by the **Deadline for submissions is Monday April 7th, 2025**.
+This is to help me have a head count of folks who can make it to the sessions.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdt4uQt1gj-rzgbZaqw1gqnP6jM3e3Hve2hICMkLCQMayja8Q/viewform?embedded=true" width="640" height="1339" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

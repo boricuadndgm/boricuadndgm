@@ -35,3 +35,4 @@ Generally, Please behave....
 ## Inspiration
 
 - [Sly Flourish | Running Session Zeros](https://slyflourish.com/running_session_zeros.html)
+- [Sly Flouris | Safety Tools](https://slyflourish.com/safety_tools.html)
