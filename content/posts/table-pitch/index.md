@@ -8,9 +8,11 @@ draft: false
 tags:
   - resources
   - onboarding
-  - campaign
+  - players
 categories:
   - resources
+  - players
+  - onboarding
 ---
 
 # The Table Pitch

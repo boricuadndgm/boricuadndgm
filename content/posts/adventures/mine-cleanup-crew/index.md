@@ -9,8 +9,10 @@ tags:
   - adventures
   - dungeon
   - tier-one
+  - chronicles
 categories:
   - adventures
+  - chronicles
 ---
 
 # The Mine Cleanup Crew
