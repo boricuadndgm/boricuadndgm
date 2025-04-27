@@ -6,12 +6,14 @@ date: "2025-02-23T12:14:35-06:00"
 lastmod: "2025-04-23T12:14:35-06:00"
 draft: false
 tags:
-  - places
-  - geography
+  - resources
+  - terms
+  - names
   - lore
 categories:
-  - places
-  - geography
+  - resources
+  - terms
+  - names
   - lore
 ---
 
