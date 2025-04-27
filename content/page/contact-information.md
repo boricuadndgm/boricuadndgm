@@ -33,3 +33,4 @@ In order where I will pay attention.
 2. [Heroic Adventures - Discord](https://linktr.ee/heroicadventures)
   The best way to reach me is through my friendly-local-gaming-store's discord server.
   Find me with `@boricuadndgm`
+3. Once you have joined my table, I wil send you an invite to my private Discord server.

@@ -24,6 +24,12 @@ menu:
 
 Generally, Please behave....
 
+Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
+
+No age-restricted or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
+If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
+No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
+
 ## Boundaries
 
 ## Let's Talk for a Minute

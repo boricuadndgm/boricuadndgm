@@ -51,3 +51,39 @@ title: 'NPC pool'
 8. **Vera**
 9. **Brina**
 10. **Dora**
+
+
+#### Eva Pescatore
+
+*CG, female (she/her), human, noble*
+
+- Senior member of the town council.
+- Older, stern, and direct. Does not trust easily. Judges harshly the party.
+- Does not like the presence of the mining company and those loyal to the state that employs them.
+- Agrees with Sigrid in the safety of the miners and fears the spead of monsters into the town.
+
+#### Elias Feuerberger
+
+*LN, male, human, gladiator*
+
+- Retired from military service, loyal servant of the nation state of [Tyrol].
+- Personal financial interests are linked to the mine.
+- Cunning political mind, seeking to expand the influence of [Tyrol] in [Marinella].
+
+##### Sigrid Gustafsdotter
+
+*LN, female, dwarf, veteran*
+
+- Head of Mining Operations, unwavering, stubborn, and highly competent
+- Represents the interests behind the dwarven mining company.
+- Is protective and secretive about anything related to the mines and their operations.
+- Is interested in safe working conditions for the miners. [Eva][Eva Oweland] shares this ideal.
+
+#### Gordon Flanders
+
+- half-elf male
+- adventuring guild assistant to the regional manager, subordinate Jim Darkmagic
+- Idolizes Jim Darkmagic above the CEO
+- corporate yes-man and brown-nose, workaholic, mediocre competence level, snob
+- responsible assisting PCs in bootstraping a franchise
+- meant to help introduce PCs and facilitate any new hirelings

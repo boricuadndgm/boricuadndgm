@@ -1,6 +1,7 @@
 .DEFAULT: help
 
 publish:
+	rm -rf public; \
 	hugo \
 		--gc \
 		--minify

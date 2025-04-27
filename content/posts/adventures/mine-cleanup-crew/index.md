@@ -3,7 +3,7 @@ title: "Mine Cleanup Crew"
 description: ""
 author: "BoricuaDNDGM"
 date: "2025-02-23T11:10:23-06:00"
-lastmod: "2025-02-23T11:10:23-06:00"
+lastmod: "2025-04-26T11:10:23-06:00"
 draft: true
 tags:
   - adventures
