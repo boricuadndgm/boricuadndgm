@@ -40,7 +40,7 @@ Nearby town and villages:
 
 - Brescia
 - Forli
-- Monteriggioni
+- Monte Ricco
 - Parma
 - Perugia
 - Ragusa
