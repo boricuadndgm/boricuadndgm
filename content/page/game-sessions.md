@@ -50,8 +50,17 @@ The store closes with a hard stop at 10 pm.
 
 `TBD`
 
-- **Session 3**: Wednesday May 8 at 7:30 pm CST at Heroic Adventures
+- **Session 3**: Wednesday May 7 at 7:30 pm CST at Heroic Adventures
   - Adventure conclusion
+
+- **No Sessions** for the week of May 5 through May 19
+  - GM is on-call for work
+
+- **Proposed, Not Confirmed**: Wednesday May 21 at 7:30 pm CST at Heroic Adventures
+  - **New Adventure**: Need to determine schedule, possibly will be overlap with June.
+  - Possibly starting a new adventure
+
+### June
 
 - **New Adventure**: Need to determine schedule, possibly will be overlap with June.
 
