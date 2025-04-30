@@ -48,7 +48,7 @@ The store closes with a hard stop at 10 pm.
 
 ### May
 
-`TBD`
+`DATES ARE TENTATIVE: Pending table feedback`
 
 - **Session 3**: Wednesday May 7 at 7:30 pm CST at Heroic Adventures
   - Adventure conclusion
@@ -61,6 +61,8 @@ The store closes with a hard stop at 10 pm.
   - Possibly starting a new adventure
 
 ### June
+
+`TABLE CAN OPEN FOR NEW PLAYERS. ACTIVE PLAYERS HAVE DIBS.`
 
 - **New Adventure**: Need to determine schedule, possibly will be overlap with June.
 
