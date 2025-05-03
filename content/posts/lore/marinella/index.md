@@ -2,8 +2,8 @@
 title: "Marinella 🏘️"
 description: "Welcome to the seaside town of Marinella!"
 author: "BoricuaDNDGM"
-date: "2025-02-23T00:33:20-06:00"
-lastmod: "2025-04-23T23:33:20-06:00"
+date: "2025-04-23T23:59:00-06:00"
+lastmod: "2025-04-23T23:59:00-06:00"
 draft: false
 image: marinella-flag.png
 tags:
@@ -53,6 +53,7 @@ The bay opens up to the [Meridian Sea] where there is a multitude of islands and
 The region's norther border is sealed by the [Vesperine Alps].
 
 ## The Town Facts
+
 > Welcome to the seaside town of Marinella!
 > At first glance, Marinella is a quaint fishing town at the southernmost edge of the region.
 > The town was settled in the soft soil of a lagoon that opens up to the Meridian sea 🌊.

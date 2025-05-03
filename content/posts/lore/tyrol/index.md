@@ -2,8 +2,8 @@
 title: "Tyrol"
 description: "Regional Power"
 author: "BoricuaDNDGM"
-date: "2025-02-23T14:38:32-06:00"
-lastmod: "2025-04-23T14:38:32-06:00"
+date: "2025-04-23T23:59:00-06:00"
+lastmod: "2025-04-23T23:59:00-06:00"
 draft: false
 image: tyrol-flag.png
 tags:
