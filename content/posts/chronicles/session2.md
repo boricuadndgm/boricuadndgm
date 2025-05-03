@@ -43,9 +43,10 @@ categories:
   Their deafening wails echoing through the tunnels attracted threatening hordes.
 
 - **Investigations and Key Discoveries**:
-  - **Kairos** carefully excavated one of these mysterious mushrooms, delivering it to **Sigrid**, who confirmed that they were not native to the mine and differed from the originally cultivated mushrooms meant to sustain air quality.
-  - **Alicia** made an important find—she recovered a **key ring** hidden between storage boxes in the storeroom.
+  - __Kairos__ carefully excavated one of these mysterious mushrooms, delivering it to **Sigrid**, who confirmed that they were not native to the mine and differed from the originally cultivated mushrooms meant to sustain air quality.
+  - __Alicia__ made an important find—she recovered a **key ring** hidden between storage boxes in the storeroom.
     While it holds several keys, it remains unclear which one unlocks the basement. Perhaps the key maker could lend some assistance.
+  - __Theo__ stayed behind in the mining camp investigating with what the blacksmith knows about the vault door that covers the entrance to the basement (-3F).
 
 With new dangers looming and unanswered mysteries deepening, the party prepares for their next descent into the mine’s dark and corrupted depths.
 What secrets lie below? And how far has this corruption spread?
